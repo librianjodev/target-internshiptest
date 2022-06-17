@@ -11,9 +11,9 @@ O documento contendo a descrição dos exercícios realizados neste teste está 
 
 O código-fonte de cada exercício pode ser acessado abaixo:
 
-Exercício |  Código-fonte   | Resolução
-----------|-----------------|----------------
-Questão 1 | [Clique aqui]() | [Clique aqui]()
+Exercício |                   Código-fonte                        |                         Resolução
+----------|-------------------------------------------------------|------------------------------------------------------
+Questão 1 | [Clique aqui](/answers/assignment%201/assignment1.py) | [Clique aqui](/answers/assignment%201/assignment1.md)
 Questão 2 | [Clique aqui]() | [Clique aqui]()
 Questão 3 | [Clique aqui]() | [Clique aqui]()
 Questão 4 | [Clique aqui]() | [Clique aqui]()
