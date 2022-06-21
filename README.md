@@ -4,7 +4,7 @@ Repositório para realização do teste prático para vaga de Estágio de Análi
 
 ## Assignments
 
-O documento contendo a descrição dos exercícios realizados neste teste está presente na pasta docs, no arquivo [assignments](docs/assignments.md). Os exercícios estão organizado na pasta source da seguinte forma:
+O documento contendo a descrição dos exercícios realizados neste teste está presente na pasta docs, no arquivo [assignments](docs/assignments.md). Os exercícios estão organizado na pasta answers da seguinte forma:
 
 * As questões 1, 2 e 5 foram resolvidas utilizando a linguagem de programação Python, e as demais usando apenas lógica e matemática;
 * Cada questão está contida em uma pasta diferente, contendo um arquivo .py com o código-fonte da questão (para as que possuirem), e um arquivo .md com a resolução explicada da questão;
